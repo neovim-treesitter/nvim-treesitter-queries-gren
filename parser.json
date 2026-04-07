@@ -1,7 +1,6 @@
 {
-  "location": null,
-  "lang": "gren",
+  "parser_version": "c36aac51a915fdfcaf178128ba1e9c2205b25930",
   "url": "https://github.com/MaeBrooks/tree-sitter-gren",
-  "semver": false,
-  "parser_version": "c36aac51a915fdfcaf178128ba1e9c2205b25930"
+  "lang": "gren",
+  "semver": false
 }
